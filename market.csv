@@ -1,0 +1,279 @@
+Player,Position,Team,Market
+David De Ga,GK,1,40
+Sergio Romero,GK,1,5
+Daily Blind,Defender,1,22
+Chris Smalling,Defender,1,20
+Marcos Roho,Defender,1,19
+Phil Jones,Defender,1,14
+Luke Shaw,Defender,1,21
+Antonio Valencia,Defender,1,8
+Morgan Schenerdlin,Midfilder,1,28
+Paul Pogba,Midfilder,1,70
+Andrea Herrra,Midfilder,1,28
+Markus Fellani ,Midfilder,1,15
+Jaun Mata ,Midfilder,1,31
+Wayne Rooney,Forward,1,35
+Antony martial,Forward,1,32
+Zltan,Forward,1,12
+Claudio Bravo,GK,1,15
+Willy Cablero,GK,1,2
+Otamandi,Defender,1,32
+kompany,Defender,1,30
+Kolarov,Defender,1,11
+john stones,Defender,1,28
+zableta,Defender,1,10
+Fernando ,Midfilder,1,16
+Fernandino,Midfilder,1,28
+Kevin Debr,Midfilder,1,60
+David Silva,Midfilder,1,33
+Fabian Delph,Midfilder,1,10
+Sterling,Forward,1,45
+Navas,Forward,1,20
+Ageuro,Forward,1,60
+Molito,Forward,1,18
+Petr Cech,GK,1,12
+David Ospana,Defender,1,8
+Laurent Kosilney,Defender,1,22
+Mustafi,Defender,1,20
+per martasaka,Defender,1,10
+Mon real,Defender,1,15
+Berlin,Defender,1,18
+Cochelin,Midfilder,1,13
+Ramsey,Midfilder,1,35
+xhaka,Midfilder,1,35
+Santi Cazola,Midfilder,1,20
+Mesult Oziil,Midfilder,1,50
+Walcot,Forward,1,22
+Perez,Forward,1,12
+Giroud,Forward,1,25
+Welbeck,Forward,1,17
+Sanchaz,Midfilder,1,55
+Courtio,GK,1,35
+David luiz,Defender,1,28
+Cahill,Defender,1,16
+Azperikota,Defender,1,20
+matic,Defender,1,32
+Iavnovic,Defender,1,10
+John Obi Mickel,Midfilder,1,11
+Cesc,Midfilder,1,45
+Oscar,Midfilder,1,35
+Hazard,Midfilder,1,65
+Willian,Midfilder,1,32
+Pedro,Forward,1,23
+Costa,Forward,1,45
+Batyushi,Forward,1,25
+Hugo Loris,GK,2,24
+Toby Ald,Defender,2,27
+jan Vertogan,Defender,2,23
+kyle walker,Defender,2,15
+Dany Rose,Defender,2,14
+Eric Dier,Midfilder,2,18
+Dele Ali,Midfilder,2,20
+Moussa Sisoko,Midfilder,2,18
+Dembelle,Midfilder,2,18
+Christen Eriksen,Midfilder,2,31
+Erik Ramela,Forward,2,26
+Hery Kane,Forward,2,40
+Heung-min-son,Forward,2,25
+Simon Mongolet,GK,2,12
+Sakho,Defender,2,18
+Joel Matip,Defender,2,18
+Dejan Loren,Defender,2,15
+Alberto Monero,Defender,2,15
+Nathinel Clyne,Defender,2,21
+Emre Can ,Midfilder,2,18
+Lucas,Midfilder,2,10
+Henderson,Midfilder,2,28
+Milner,Midfilder,2,15
+Cutinio,Midfilder,2,35
+lalana,Midfilder,2,19
+Firmino,Forward,2,35
+Sturidge,Forward,2,25
+Mane,Forward,2,30
+Fraser,GK,2,15
+Virgil van Dijik,Defender,2,12
+Jose Fonte,Defender,2,6
+Gardos,Defender,2,5
+Ryan Bertand,Defender,2,14
+Cedric,Defender,2,12
+James ward,Midfilder,2,11
+Sofaine Bowfal,Midfilder,2,13
+Dusan Tadic,Midfilder,2,17
+jay rodriguez,Forward,2,13
+charlie austin,Forward,2,13
+shane long,Forward,2,10
+Matz Sel,GK,2,6.5
+Chancel Mbeba,Defender,2,10
+Claran,Defender,2,5
+Grant,Defender,2,4.5
+Yedlin,Defender,2,4
+Jesus,Defender,2,3.5
+Jonjo,Midfilder,2,11
+Jack Colbak,Midfilder,2,6.5
+Matt Richie,Midfilder,2,8
+Mitrovic,Forward,2,12
+Perez,Forward,2,8
+Gayle,Forward,2,6
+Joel Robles,GK,2,5
+Ramiro,Defender,2,12
+Ashley William,Defender,2,8
+Banes,Defender,2,13
+seamus,Defender,2,17
+James Mcharthy,Midfilder,2,17
+Tom Cleverly,Midfilder,2,9
+Idrissa,Midfilder,2,9
+Ross Barkley,Midfilder,2,22
+Yanic,Midfilder,2,14
+Kevin  ,Forward,2,13
+Lukaku,Forward,2,40
+Niasse,Forward,2,12
+Valencia,Forward,2,10
+Adrian,GK,2,9
+Winston Ried,Defender,2,10
+Angelo Ogobono,Defender,2,9
+Aron Creswell,Defender,2,12
+Arthur Masauku,Defender,2,7
+Kouyate,Midfilder,2,12
+Havard,Midfilder,2,6
+Mark ,Midfilder,2,7
+lanzini,Midfilder,2,10
+Payat,Midfilder,2,30
+Ayew,Midfilder,2,18
+Tore,Midfilder,2,14
+zaza,Forward,2,15
+sakho,Forward,2,12
+caroll,Forward,2,10
+Jack Butland,GK,3,9
+Ryan  ,Defender,3,11
+Bruno,Defender,3,10
+Erik Pleters,Defender,3,7
+Glenn Johnson,Defender,3,7
+Imbula,Midfilder,3,18
+Joe Allen,Midfilder,3,12
+Charlie Adam,Midfilder,3,4.5
+Shaqiri,Midfilder,3,15
+Marko,Midfilder,3,12
+krkic,Forward,3,10
+Bony,Forward,3,12
+Diouf,Forward,3,8
+Steve Mandana,GK,3,10
+Tomkins,Defender,3,7
+Scott Dan,Defender,3,5
+Pape Souare,Defender,3,6.5
+Joel Ward,Defender,3,5
+Martin Kelly,Defender,3,3.5
+Flamini,Midfilder,3,4
+Cabaye,Midfilder,3,18
+james Mcarthur,Midfilder,3,7
+Bakary Sako,Midfilder,3,8
+Andros,Midfilder,3,11
+Zaha,Midfilder,3,9
+Benteke,Forward,3,27
+remy ,Forward,3,9
+whickham,Forward,3,6
+Lukas,GK,3,9
+Fedrico,Defender,3,9
+Mike vandarhon,Defender,3,2.5
+Nell Tylor,Defender,3,6
+Kyle  ,Defender,3,5
+Sung kong,Midfilder,3,7.5
+jack cork,Midfilder,3,5
+leroy Fer,Midfilder,3,8
+Sugurdsson,Midfilder,3,17
+Jefferson,Midfilder,3,5.5
+Lloente,Forward,3,6
+baston,Forward,3,5
+Foster,GK,3,4
+Jonny Evans,Defender,3,6
+Osslon,Defender,3,1.5
+Galloway,Defender,3,3
+Dawson,Defender,3,6
+Nyom,Defender,3,4
+James morrison,Midfilder,3,5
+Gardner,Midfilder,3,3.5
+Bunt,Midfilder,3,4
+Chadli,Midfilder,3,13
+Philp,Midfilder,3,6
+callum,Forward,3,4
+rondon,Forward,3,17
+saido,Forward,3,15
+John Ruddy,GK,3,3
+Klosse,Defender,3,5.5
+Martin  ,Defender,3,3
+Basong,Defender,3,3
+Robbie,Defender,3,8
+Pinto,Defender,3,4
+Alex,Midfilder,3,5
+Tetty,Midfilder,3,3
+Howson,Midfilder,3,4
+Dorrans,Midfilder,3,3.5
+Matt javis,Midfilder,3,3
+Steven Naismith,Forward,3,6
+Oliveria,Forward,3,4.5
+Jerome,Forward,3,2.5
+Gollini,GK,4,4
+Chester,Defender,4,6
+Elphick,Defender,4,3
+Jordan Amavi,Defender,4,10
+Cissoko ,Defender,4,2
+Richard,Midfilder,4,4.5
+Mile,Midfilder,4,5
+Westhood,Midfilder,4,4
+Arron,Midfilder,4,3
+Gardner,Midfilder,4,2
+Grelish,Midfilder,4,4.5
+Ross  ,Forward,4,10
+Jonathon,Forward,4,10
+Ayew,Forward,4,7.5
+Rudy,Forward,4,7
+Pantillimon,GK,4,4.5
+Christain,Defender,4,6
+Sebestian ,Defender,4,4
+Criag,Defender,4,4
+Younes,Defender,4,2.5
+kendy,Defender,4,8
+Daryl,Defender,4,7.5
+Capoue,Midfilder,4,9
+Valon,Midfilder,4,2.5
+Abdoloye,Midfilder,4,6
+Pereyra,Midfilder,4,16
+Nordin,Midfilder,4,4.5
+Issac,Midfilder,4,4
+Odion,Forward,4,12
+Troy,Forward,4,11
+Okaka,Forward,4,6.5
+Vito,GK,4,2.5
+Lamine,Defender,4,6
+Pepy,Defender,4,4.5
+Jason,Defender,4,4
+Patrick,Defender,4,4
+Van anholot,Defender,4,6
+John oshea,Defender,4,1
+Jaiver,Defender,4,5
+Jack rodwell,Midfilder,4,7
+Didier,Midfilder,4,5
+Cattermole,Midfilder,4,3.5
+Kirchoff,Midfilder,4,3
+Wabhi,Midfilder,4,9
+Adnan,Midfilder,4,7
+Fabio,Forward,4,6
+watmore,Forward,4,2.5
+Defoe,Forward,4,6.5
+Boruc,GK,4,1
+Cook,Defender,4,5
+Ake,Defender,4,5
+Wilson,Defender,4,3
+Mings,Defender,4,6
+Francis,Defender,4,2.5
+Adam,Defender,4,2
+Cook,Midfilder,4,5
+Gosling,Midfilder,4,3
+Emerson,Midfilder,4,1
+Gradel,Midfilder,4,9
+Junior,Midfilder,4,4
+Ibe ,Forward,4,10
+King,Forward,4,4
+Afobe,Forward,4,9
+Willson,Forward,4,9
+Mouset,Forward,4,5
+Grabben,Forward,4,3
